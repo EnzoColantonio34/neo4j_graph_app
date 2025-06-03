@@ -14,7 +14,7 @@ Ce projet est une API simple permettant d'interroger une base Neo4j contenant de
 ## Installation
 
 ```bash
-git clone [https://github.com/EnzoColantonio34/neo4j_graph_app](https://github.com/EnzoColantonio34/neo4j_graph_app)
+git clone https://github.com/EnzoColantonio34/neo4j_graph_app
 cd neo4j_graph_app
 python3 -m venv venv
 source venv/bin/activate
